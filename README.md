@@ -9,7 +9,7 @@ A repository dedicated for posting chart files charted by the 2 main project sta
 
 1. All songs are attributed to their respective owners and will not and never be attributed to us unless specified.
 
-## Section 2: Charts**
+## Section 2: Charts
 
 1. All charts are made by either of the two project managers unless otherwise stated.
 
