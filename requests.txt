@@ -1,7 +1,0 @@
-To request a song, start a pull request and add your song requests at the end of this file
-
-Follow the format:
-Song Name - Artist ; Youtube Link ; Name of Requester
-
->> REQUESTS BELOW <<
-
