@@ -4,6 +4,8 @@ The assets folder contain all the new charts and the updated old charts. Some ch
 
 ## List of Packs Added
 
+### ver1.0
+
 1. Ixo Rence Pack 3 (Ram ed.)
 
 > UPDATED: Aug. 31, 2020
