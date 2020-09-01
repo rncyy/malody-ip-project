@@ -17,3 +17,7 @@
 
 - 777 has an original BPM of 777, due to application restraints, we scaled it down to 194.25 which is 777 scaled down 1 time with a factor of 4
 - Some charts have sections that need 4 fingers. This doesn't change the initial premise of the charts as most of the chart is playable by index fingers only
+
+### Download link
+
+<https://github.com/rncyy/malody-ip-project/>
