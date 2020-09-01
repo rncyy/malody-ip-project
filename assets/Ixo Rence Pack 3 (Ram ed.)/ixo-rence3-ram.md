@@ -1,5 +1,7 @@
 # Ixo Rence Pack 3 (Ram ed.)
 
+## Release v1.0
+
 ## Pack Difficulty: 7.8/10
 
 ## Charter Notes: Dedicated to Ram [Ramil Rodriguez Jr.]
@@ -20,4 +22,4 @@
 
 ### Download link
 
-<https://github.com/rncyy/malody-ip-project/>
+<https://github.com/rncyy/malody-ip-project/releases/tag/v1.0>
