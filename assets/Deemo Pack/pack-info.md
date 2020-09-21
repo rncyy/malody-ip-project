@@ -10,7 +10,10 @@
 4. Ephemeral by Mili Lv.(0/0/12+/0)
 5. Dyslexia by Team Grimoire (0/0/15+/0)
 
-### 09-20-2020 Update
+### 09-30-2020 Update
+
+1. chat perdu by Feryquitous
+2. Aitai by onoken feat. Rin
 
 ### Additional Notes
 
@@ -18,4 +21,4 @@
 
 ### Download link
 
-https://github.com/rncyy/malody-ip-project/releases/tag/v1.0patch02
+https://github.com/rncyy/malody-ip-project/releases/tag/v1.0patch02 

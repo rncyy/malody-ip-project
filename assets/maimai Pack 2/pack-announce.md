@@ -1,22 +1,21 @@
 # NEW PACK ANNOUNCEMENT
 
-## Deemo Pack (Continuous Update)
-
-### What is Continuous Update Packs?
-
-- Pack that are constantly updated with new songs and charts
+## maimai Pack 2
 
 ### Pack Info
 
-- This pack includes songs from the rhythm game Deemo.
-- This pack is free and costs 0SH
+- Brand new pacc to celebrate the release of maimai Splash!
+- 6 New songs to play PLUS an extra secret song coming after completing certain quests!
 
 ## Songs
 
-1. Quimi by Yooh
-2. Fur War, Pur War by N.M.S.T
-3. Dyslexia by Team Grimoire
-4. Ephemeral by Mili
-5. Kaguya by BlackY
+1. AMAZING MIGHTYYYY!!! by WAiKURO
+2. Titania by xi
+3. Valsqotch by owl * tree feat. chi * tree
+4. Sqlupp (Camellia's "Sqleipd * Hiytex" Remix) by owl * tree Remixed by Camellia
+5. DONUT HOLE by HACHI
+6. We are always shuwa-shuwa by Hige Driver feat. Lime Bear & Lemon Bear
+7. felys -final remix- by onoken
+8. PinqPiq by owl * tree feat. awao * tree
 
-Coming this Sept. 08, 2020
+Coming this Sept. 28, 2020
