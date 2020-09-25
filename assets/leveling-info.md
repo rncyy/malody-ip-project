@@ -16,9 +16,11 @@ _Example:_
 
 > The actual level of this chart is 15+
 
-## New Leveling System
+## New Leveling System (June 2020)
 
 This leveling system ignores the `Unleash` tag on a song and is leveled as is. This is distinguishable because newer charts only have the `Unleash` when the level is higher than 16
+
+_Example:_
 
 - `4K IP PR Lv. MAXX Unleash!`
 
@@ -27,3 +29,7 @@ This leveling system ignores the `Unleash` tag on a song and is leveled as is. T
 - `4K IP PR Lv. 16+ Unleash!`
 
 > The actual level of this chart is 16+
+
+## Enhanced Leveling System (October 2020)
+
+This new leveling system will remove the `Unleash` tag, and remove the +'s in the level numbers. The maximum level of a chart can now be 20. All charts will have their levels adjusted accordingly. 
