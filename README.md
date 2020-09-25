@@ -15,15 +15,14 @@ A repository dedicated for posting chart files charted by the 2 main project sta
 
 ## Section 3: Sharing
 
-1. This is a pseudo-private repository which means you are given special access to all of its resources but sharing links is strictly forbidden.
-2. Sharing charts outside the platform is allowed as long as you provide a link to this repository which is written below.
+1. Sharing charts outside the platform is allowed as long as you provide a link to this repository which is written below.
 
 ## Section 4: The Repository
 
 There are several folders in the repository and each has corresponding types of files and announcements inside them. Below is a somehow comprehensive guide on what these folders contain:
 
 1. assets/Pack Name - a folder containing the pack information, related files, announcement messages and etc. for an upcoming or a reposted pack
-2. assets/[date] Update - a folder containing the update log of a certain date that wont affect the whole system (includes song updates, level updates etc.)
+2. assets/[date] Update - a folder containing the update log of a certain date that wont affect the whole system (includes small song updates, level updates etc.)
 3. project-files - a folder containing all project related files such as the project tasks, etc.
 4. project-files/updates - a folder containing the update log of each release tag.
 

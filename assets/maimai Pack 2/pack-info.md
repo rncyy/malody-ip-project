@@ -2,15 +2,14 @@
 
 ## Songs
 
-### 09-12-2020 Update
-
-1. Kaguya by BlackY Lv.(0/0/15+/0)
-2. Fur War, Pur War by N.M.S.T. Lv.(0/0/U17+/0)
-3. Quimi by Yooh Lv.(0/0/15/0)
-4. Ephemeral by Mili Lv.(0/0/12+/0)
-5. Dyslexia by Team Grimoire (0/0/15+/0)
-
-### 09-20-2020 Update
+1. AMAZING MIGHTYYYY!!! by WAiKURO Lv.(0/0/16/0)
+2. Titania by xi Lv.(0/0/)
+3. Valsqotch by owl \* tree feat. chi * tree Lv.(0/0/16/0)
+4. Sqlupp (Camellia's "Sqleipd \* Hiytex" Remix) by owl * tree Remixed by Camellia Lv.(0/0/14/0)
+5. DONUT HOLE by HACHI Lv.(0/0/)
+6. We are always shuwa-shuwa by Hige Driver feat. Lime Bear & Lemon Bear Lv.(0/0/13/0)
+7. felys -final remix- by onoken Lv.(0/0/15/0)
+8. PinqPiq by owl \* tree feat. awao * tree Lv.(0/0/14+/0)
 
 ### Additional Notes
 
