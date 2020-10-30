@@ -24,12 +24,12 @@ Not yet level changed
 14. Quimi by Yooh Lv. 15 -> S15 (S for slide charts)
 15. Ephemeral by Mili (4K) Lv. 12+ -> 12
 16. Ephemeral by Mili (Slide) Lv. 12 -> S11 (S for slide charts)
-17. vs. Sayu by James Landino feat. Nikki Simmons Lv. 15 -> 14
+17. vs. Sayu by James Landino feat. Nikki Simmons Lv. 15 -> 14 `done`
 18. Pekora BGM by MAKOOTO Lv. 10 -> 8
 19. Heavenly by makou Lv. 12+ -> 12
 20. Natsuiro BGM Remix Battle Theme Style by TshadowKnight Lv. 10 -> 9
-21. Aragami by xi Lv. 17 -> 19
-22. Call me Baby by Utae feat. oCau Lv. 11 -> 9
+21. Aragami by xi Lv. 17 -> 19 `done`
+22. Call me Baby by Utae feat. oCau Lv. 11 -> 9 `done`
 23. Minato Aqua by heiakim Lv. 13+ -> 12
 24. You are the miserable by t+pazolite Lv. 13 -> 13
 25. 777 by RoughSketch Lv. 16, 18 -> 17, 20
@@ -130,3 +130,10 @@ Not yet level changed
 120. SnowFlake by Lunatic Sounds Lv. 13+ -> 13
 121. Rubber Human by Mili Lv. 12+ -> 11
 122. My First Phone by cubesato Lv. 10 -> 8
+123. crepe suzette by kamome sano Lv. 15 -> 16
+124. 100sec Cat Dreams by Ayatsugu_Otowa Lv. 16+ -> 18
+125. Starbirds of Zenith blue by pan Lv. 15 -> 16
+126. Haunted Dance by Mr. Asyu Lv. 15+ -> 16
+127. Cursed Mansion by WyvernP Lv. 13 -> 13
+128. mopemope by LeaF Lv. 14+ -> 15
+129. kipple industry inc. by millstones Lv. 15+ -> 16
