@@ -1,4 +1,4 @@
-# Level Update as of October 2020
+# Level Update as of November 2020
 
 1. Chat perdu by Feryquitous Lv. 15 -> 15
 2. Aitai by Onoken feat. Rin Lv. 14 -> 14
@@ -7,11 +7,6 @@
 5. Sqlupp (Camellia's "Sqleipd \* Hiytex" Remix) by owl \* tree Remixed by Camellia Lv. 13+ -> 13
 
 Not yet level changed
-
-<!-- markdownlint-disable MD029 -->
-<!-- markdownlint-disable MD032 -->
-<!-- markdownlint-disable MD009 -->
-<!-- markdownlint-disable MD047 -->
 
 6. felys -final remix- by Onoken Lv. 15 -> 14
 7. PinqPiq by owl \* tree feat. awao \* tree Lv. 14 -> 13
