@@ -13,10 +13,20 @@
 
 ## Songs
 
+September 8 Update
+
 1. Quimi by Yooh
 2. Fur War, Pur War by N.M.S.T
 3. Dyslexia by Team Grimoire
 4. Ephemeral by Mili
 5. Kaguya by BlackY
 
-Coming this Sept. 08, 2020
+September 30 Update
+
+1. Aitai by onoken feat. Rin
+2. chat perdu by Feryquitous
+
+December 7 Update
+
+1. Post-script by Hoshizora Project
+2. Undo by Yukcheung Chun ft. Misi Ke

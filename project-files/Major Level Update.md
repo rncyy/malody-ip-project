@@ -9,9 +9,9 @@
 Not yet level changed
 
 6. felys -final remix- by Onoken Lv. 15 -> 14
-7. PinqPiq by owl \* tree feat. awao \* tree Lv. 14 -> 13
-8. Valsqotch by owl \* tree feat. chi \* tree Lv. 16 -> 16
-9. AMAZING MIGHTYYYY!!!! by BlackY vs. WAiKURO Lv. 16 -> 17
+7. PinqPiq by owl \* tree feat. awao \* tree Lv. 14 -> 14
+8. Valsqotch by owl \* tree feat. chi \* tree Lv. 16 -> 15
+9. AMAZING MIGHTYYYY!!!! by BlackY vs. WAiKURO Lv. 16 -> 16
 10. We are always shuwa-shuwa by Hige Driver Lv. 13+ -> 13
 11. QZKago Requiem by t+pazolite Lv. 17 -> 18
 12. Kaguya by BlackY Lv. 15+ -> 15
@@ -19,13 +19,13 @@ Not yet level changed
 14. Quimi by Yooh Lv. 15 -> S15 (S for slide charts)
 15. Ephemeral by Mili (4K) Lv. 12+ -> 12
 16. Ephemeral by Mili (Slide) Lv. 12 -> S11 (S for slide charts)
-17. vs. Sayu by James Landino feat. Nikki Simmons Lv. 15 -> 14 `done`
+17. vs. Sayu by James Landino feat. Nikki Simmons Lv. 15 -> 16 `done`
 18. Pekora BGM by MAKOOTO Lv. 10 -> 8
 19. Heavenly by makou Lv. 12+ -> 12
 20. Natsuiro BGM Remix Battle Theme Style by TshadowKnight Lv. 10 -> 9
 21. Aragami by xi Lv. 17 -> 19 `done`
 22. Call me Baby by Utae feat. oCau Lv. 11 -> 9 `done`
-23. Minato Aqua by heiakim Lv. 13+ -> 12
+23. Minato Aqua by heiakim Lv. 13+ -> 13
 24. You are the miserable by t+pazolite Lv. 13 -> 13
 25. 777 by RoughSketch Lv. 16, 18 -> 17, 20
 26. XTREME by Usao Lv. 14 -> 15
@@ -37,7 +37,7 @@ Not yet level changed
 32. Nostalgia Sonatina by ICE Lv. 12+ -> 12
 33. MAHOROBA by Zekk Lv. 13 -> 13
 34. ANGEL HALO by REDALiCE vs. cosMo@bousouP Lv. 16 -> 17
-35. DJ Mashiro is dead or alive by ICE Lv. 16 -> 18
+35. DJ Mashiro is dead or alive by ICE Lv. 16 -> 17
 36. Honest Heart VIP by Zekk loves Titancube Lv. 15+ -> 16
 37. Yumemi no Shōnen by Aoi Lv. 14, 16 -> 14, 17
 38. 13 Donkeys by Massive New Krew Lv. 13+ -> 14
@@ -74,14 +74,14 @@ Not yet level changed
 69. Pixel Rebelz by Normal1zer Lv. 16 -> 16 (MIXED CHART: 4K + IP)
 70. Creatures ov Destruction by Rainbowdragoneyes Lv. 15 -> 16
 71. Maware Setsugetsuka by Utagami Setsugetsuka Lv. 13+ -> 14
-72. Find Me by Lunatic Sounds Lv. 13, 15 -> 14, 15
+72. Find Me by Lunatic Sounds Lv. 13, 15 -> 14, 16
 73. Avant Raze by SAMPLING MASTERS MEGA Lv. 15+ -> 16
-74. #1f1e33 by Camellia Lv. 17 -> 17
+74. #1f1e33 by Camellia Lv. 17 -> 18
 75. NIBLE by ARForest feat. SCKim Lv. 12+ -> 11
 76. Creation of Fighters by Apo11o Program vs. RoughSketch vs. Art of Fighters Lv. 15 -> 16
 77. Orca by Yamajet Lv. 9 -> 7
-78. Jumpin' Skippin' by Ino(Chronoize) Lv. 12+ -> 11
-79. Tunnef's Nightmare by Neutral Moon Lv. 15 -> 14
+78. Jumpin' Skippin' by Ino(Chronoize) Lv. 12+ -> 12
+79. Tunnef's Nightmare by Neutral Moon Lv. 15 -> 15
 80. Imitation : Loud Lounge by Ino(Chronoize) Lv. 14+ -> 14
 81. Alien Alien by Nayutalien Lv. 13 -> 13
 82. Capybara Kids' Paradise by Lunatic Sounds & ICE Lv. 16 -> 18
@@ -124,9 +124,9 @@ Not yet level changed
 119. FUSE by Titancube Lv. 15 -> 14
 120. SnowFlake by Lunatic Sounds Lv. 13+ -> 13
 121. Rubber Human by Mili Lv. 12+ -> 11
-122. My First Phone by cubesato Lv. 10 -> 8
+122. My First Phone by cubesato Lv. 10 -> 8 #NEWDIFF
 123. crepe suzette by kamome sano Lv. 15 -> 16
-124. 100sec Cat Dreams by Ayatsugu_Otowa Lv. 16+ -> 18
+124. 100sec Cat Dreams by Ayatsugu_Otowa Lv. 16+ -> #REMAKE
 125. Starbirds of Zenith blue by pan Lv. 15 -> 16
 126. Haunted Dance by Mr. Asyu Lv. 15+ -> 16
 127. Cursed Mansion by WyvernP Lv. 13 -> 13
